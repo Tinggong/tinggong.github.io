@@ -5,9 +5,15 @@ var store = [{
         "url": "http://localhost:4000/Tinggong.github.io/CNN-fODF/",
         "teaser": null
       },{
+        "title": "H-CNN for fast DKI",
+        "excerpt":"Fast and robust diffusion kurtosis parametric mapping using a three-dimensional convolutional neural network   DOI to the paper: link  ","categories": [],
+        "tags": ["DKI","CNN","hierarchical structure","deep learning"],
+        "url": "http://localhost:4000/Tinggong.github.io/H-CNN-DKI/",
+        "teaser": null
+      },{
         "title": "MTE-NODDI",
-        "excerpt":"Multi-TE NODDI for disentangling non-T2-weighted signal fractions from compartment-specific T2 relaxation times   DOI to the paper: link  ","categories": [],
+        "excerpt":"Multi-TE NODDI for disentangling non-T2-weighted signal fractions from compartment-specific T2 relaxation times DOI to the paper: link Conventional NODDI-derived compartment fractions are T2-weighted and TE-dependent MTE-NODDI disentangles non-T2-weighted signal fractions from T2 relaxation. Robust intra-neurite T2 estimation in WM even with CSF contamination. Non-T2-weighted fractions may improve the interpretability of...","categories": [],
         "tags": ["NODDI","T2 relaxation","Brain development","Brain maturation","Aging"],
         "url": "http://localhost:4000/Tinggong.github.io/MTE-NODDI/",
-        "teaser": null
+        "teaser": "http://localhost:4000/Tinggong.github.io/images/Figure1.png"
       }]
