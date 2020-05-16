@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ting Gong"
 description              : "PhD Candidate working on diffusion MRI"
-url                      : "https://github.com/Tinggong" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Tinggong.github.io" # the subpath of your site, e.g. "/blog"
+url                      : "https://tinggong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Ting Gong"
-  avatar           : "/images/avater.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avater.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD candidate working on diffusion MRI"
   location         : "London, UK/ Hangzhou, China"
   email            : "gongting@zju.edu.cn"
