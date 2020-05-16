@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "MTE-NODDI",
-        "excerpt":"Multi-TE NODDI for disentangling non-T2-weighted signal fractions from compartment-specific T2 relaxation times DOI to the paper: link Conventional NODDI-derived compartment fractions are T2-weighted and TE-dependent MTE-NODDI disentangles non-T2-weighted signal fractions from T2 relaxation Robust estimates with reduced number of TE’s Non-T2-weighted fractions may improve the interpretability of neurodevelopmental studies For...","categories": [],
+        "excerpt":"Multi-TE NODDI for disentangling non-T2-weighted signal fractions from compartment-specific T2 relaxation times DOI to the paper: link Conventional NODDI-derived compartment fractions are T2-weighted and TE-dependent Since T2 of each compartment is different in general, both signal fractions are T2-weighted and will typically be TE dependent. In contrast, ODI, by definition,...","categories": [],
         "tags": ["NODDI","T2 relaxation","Brain development","Brain maturation","Aging"],
         "url": "http://localhost:4000/MTE-NODDI/",
         "teaser": "http://localhost:4000/assets/images/MTE-NODDI/Figure1.png"

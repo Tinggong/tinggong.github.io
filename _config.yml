@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "My Projects"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Published # site tagline that appears below site title in masthead
 name                     : "Ting Gong"
 description              : "PhD Candidate working on diffusion MRI"
 url                      : "https://tinggong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -49,8 +49,8 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+#atom_feed:
+#  path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -100,6 +100,7 @@ author:
   email            : "gongting@zju.edu.cn"
   twitter          : "tingg93"
   github           : "Tinggong"
+  researchgate     : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -119,25 +120,29 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://researchgate.net/profile/Ting_Gong8"
+
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/tingg93"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Tinggong"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://researchgate.net/profile/Ting_Gong8"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
