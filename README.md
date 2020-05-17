@@ -1,1 +1,1 @@
-# This is a personal page for projects overview
+# This is a personal website for projects overview
