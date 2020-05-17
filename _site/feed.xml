@@ -1,22 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-16T19:26:48+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>PhD Candidate working on diffusion MRI</subtitle><author><name>Ting Gong</name><email>gongting@zju.edu.cn</email></author><entry><title type="html">MTE-NODDI</title><link href="http://localhost:4000/MTE-NODDI/" rel="alternate" type="text/html" title="MTE-NODDI" /><published>2020-05-16T00:00:00+01:00</published><updated>2020-05-16T00:00:00+01:00</updated><id>http://localhost:4000/MTE-NODDI</id><content type="html" xml:base="http://localhost:4000/MTE-NODDI/">&lt;h1 id=&quot;multi-te-noddi-for-disentangling-non-t2-weighted-signal-fractions-from-compartment-specific-t2-relaxation-times&quot;&gt;Multi-TE NODDI for disentangling non-T2-weighted signal fractions from compartment-specific T2 relaxation times&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-17T23:53:58+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Projects</title><subtitle>PhD Candidate working on diffusion MRI</subtitle><author><name>Ting Gong</name><email>gongting@zju.edu.cn</email></author><entry><title type="html">MTE-NODDI</title><link href="http://localhost:4000/MTE-NODDI/" rel="alternate" type="text/html" title="MTE-NODDI" /><published>2020-05-16T00:00:00+01:00</published><updated>2020-05-16T00:00:00+01:00</updated><id>http://localhost:4000/MTE-NODDI</id><content type="html" xml:base="http://localhost:4000/MTE-NODDI/">&lt;h1 id=&quot;multi-te-noddi-for-disentangling-non-t2-weighted-signal-fractions-from-compartment-specific-t2-relaxation-times&quot;&gt;Multi-TE NODDI for disentangling non-T2-weighted signal fractions from compartment-specific T2 relaxation times&lt;/h1&gt;
 
 &lt;h2 id=&quot;doi-to-the-paper-link&quot;&gt;DOI to the paper: &lt;a href=&quot;https://doi.org/10.1016/j.neuroimage.2020.116906&quot;&gt;link&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h2 id=&quot;conventional-noddi-derived-compartment-fractions-are-t2-weighted-and-te-dependent&quot;&gt;Conventional NODDI-derived compartment fractions are T2-weighted and TE-dependent&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/MTE-NODDI/Figure2.png&quot; alt=&quot;&quot; /&gt;
-Since T2 of each compartment is different in general, both signal fractions are T2-weighted and will typically be TE dependent. In contrast, ODI, by definition, does not involve any signal fractions and thus should not exhibit TE dependence.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/MTE-NODDI/Figure2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Demonstration of TE-dependence of NODDI-derived parameters in the set of chosen WM (A)(C) and GM (B) ROIs.&lt;/figcaption&gt;
+
+&lt;p&gt;As demonstrated above, &lt;em&gt;fin&lt;/em&gt; increases with TE in all WM ROIs but remains relatively constant in the GM ROI; &lt;em&gt;fiso&lt;/em&gt; increases with TE in all WM and GM ROIs; in contrast, &lt;em&gt;ODI&lt;/em&gt; shows minimal TE-dependence.&lt;/p&gt;
 
 &lt;h2 id=&quot;mte-noddi-disentangles-non-t2-weighted-signal-fractions-from-t2-relaxation&quot;&gt;MTE-NODDI disentangles non-T2-weighted signal fractions from T2 relaxation&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/MTE-NODDI/Figure3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Distribution of all estimates from simulation data.&lt;/figcaption&gt;
+
+&lt;p&gt;The simulation data demonstrates the accuracy and precision of MTE-NODDI, and the in vivo data demonstrates the TE-dependence of NODDI estimated parameters and the ability of MTE-NODDI to exploit such TE-dependence. Compared to NODDI estimates, the estimates from MTE-NODDI suggest that conventional T2-weighted signal fractions will give overestimated relative intra-neurite and CSF fractions, due to the estimated T2 of intra-neurite compartment being larger than that of extra-neurite compartment from the proposed technique, and T2 of free water being larger than T2 of intra-neurite compartment in studies respectively. Meanwhile, the T2-weighted intra-neurite and CSF fractions will increase with TE. By disentangling the non-T2-weighted compartment fraction with its specific relaxation, the MTE-NODDI technique could facilitate the interpretation and quantification of studies where alteration of T2 and fraction interacts and where acquisition protocols (e.g. TE) are different.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/MTE-NODDI/Figure4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;MTE-NODDI estimated parameter maps and histograms of WM voxels. The parameter estimates show high consistency between the two subjects.&lt;/figcaption&gt;
 
 &lt;h2 id=&quot;robust-estimates-with-reduced-number-of-tes&quot;&gt;Robust estimates with reduced number of TE’s&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/MTE-NODDI/Figure6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The dependence of parameter estimates from simulation data of pure WM voxel on the number and range of TEs.&lt;/figcaption&gt;
+
+&lt;p&gt;When reducing the number of TEs while keeping the same TE range, the accuracy and precision of parameter estimation closely mirror those of the full data, including the slight biases.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/MTE-NODDI/Figure7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The dependence of parameter estimates from in vivo data on the number and range of TEs.&lt;/figcaption&gt;
 
 &lt;h2 id=&quot;non-t2-weighted-fractions-may-improve-the-interpretability-of-neurodevelopmental-studies&quot;&gt;Non-T2-weighted fractions may improve the interpretability of neurodevelopmental studies&lt;/h2&gt;
 
