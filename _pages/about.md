@@ -22,7 +22,7 @@ Sep. 2011 – Jun. 2015;  B.S.;   China University of Geosciences
    
 [3] Li, Z.#, **Gong, T.**#, Lin, Z., He, H., Tong, Q., Li, C., Sun, Y., Yu, F. and Zhong, J., 2019. Fast and Robust Diffusion Kurtosis Parametric Mapping Using a Three-Dimensional Convolutional Neural Network. IEEE Access, 7, pp.71398-71411.  
 
-[4] Tong, Q., He, H., **Gong, T.**, Li, C., Liang, P., Qian, T., Sun, Y., Ding, Q., Li, K. and Zhong, J., 2020. Multicenter dataset of multi-shell diffusion MRI in healthy traveling adults with identical setting. Scientific Data. (Accepted)
+[4] Tong, Q., He, H., **Gong, T.**, Li, C., Liang, P., Qian, T., Sun, Y., Ding, Q., Li, K. and Zhong, J., 2020. Multicenter dataset of multi-shell diffusion MRI in healthy traveling adults with identical setting. Scientific Data. 7(1), pp.1-7s.
 
 [5] Tong, Q., He, H., **Gong, T.**, Li, C., Liang, P., Qian, T., Sun, Y., Ding, Q., Li, K. and Zhong, J., 2019. Reproducibility of multi-shell diffusion tractography on traveling subjects: A multicenter study prospective. Magnetic resonance imaging, 59, pp.1-9.
 
