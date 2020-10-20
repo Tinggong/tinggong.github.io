@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About"
 permalink: /about/
 ---
 
@@ -23,7 +23,7 @@ Sep. 2011 – Jun. 2015;  B.S.;   China University of Geosciences
 
 [1] **Gong T**, Tong Q, He H, Sun Y, Zhong J, Zhang H. MTE-NODDI: Multi-TE NODDI for disentangling non-T2-weighted signal fractions from compartment-specific T2 relaxation times. NeuroImage. 2020 May 7:116906.
 
-[2] **Gong T**, Tong Q, Li Z, He H, Zhang H, Zhong J. Deep learning-based method for reducing residual motion effects in diffusion parameter estimation. Magn Reson Med. 2020;00:1–16. https://doi.org/10.1002/mrm.28544
+[2] **Gong T**, Tong Q, Li Z, He H, Zhang H, Zhong J. Deep learning-based method for reducing residual motion effects in diffusion parameter estimation. Magn Reson Med. 2020;00:1–16.
 
 [3] Tong Q#, **Gong T#**, He H, Wang Z, Yu W, Zhang J, Zhai L, Cui H, Meng X, Tax CW, Zhong J. A deep learning–based method for improving reliability of multicenter diffusion kurtosis imaging with varied acquisition protocols. Magnetic Resonance Imaging. 2020 Nov 1;73:31-44.
 
