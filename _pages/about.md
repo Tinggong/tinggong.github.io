@@ -1,13 +1,17 @@
 ---
-title: "About"
+title: "About Me"
 permalink: /about/
 ---
 
 This is a personal website hosted by Ting Gong, PhD candidate working on microstructure imaging with dMRI.
 
+## Appointment
+
+Sep. 2020 - Present; Research Assisstant; Computer Science, University College London
+
 ## Education
 
-Sep. 2015 – (Sep. 2020);  Ph.D. student;   Zhejiang University
+Sep. 2015 – Present (2020);  Ph.D. student;   Zhejiang University
 
 Sep. 2019 – (Jun.2020);   Visiting Ph.D. student; University College London
 
@@ -16,17 +20,22 @@ Sep. 2011 – Jun. 2015;  B.S.;   China University of Geosciences
 ## Publications
 
 ### Journal Articles (#Co-first author)
-[1] **Gong, T.**, Tong, Q., He, H., Sun, Y., Zhong, J. and Zhang, H., 2020. MTE-NODDI: Multi-TE NODDI for disentangling non-T2-weighted signal fractions from compartment-specific T2 relaxation times. NeuroImage, p.116906.
 
-[2] Lin, Z.#, **Gong, T**#., Wang, K., Li, Z., He, H., Tong, Q., Yu, F. and Zhong, J., 2019. Fast learning of fiber orientation distribution function for MR tractography using convolutional neural network. Medical physics, 46(7), pp.3101-3116.     ***(editor’s choice)***
-   
-[3] Li, Z.#, **Gong, T.**#, Lin, Z., He, H., Tong, Q., Li, C., Sun, Y., Yu, F. and Zhong, J., 2019. Fast and Robust Diffusion Kurtosis Parametric Mapping Using a Three-Dimensional Convolutional Neural Network. IEEE Access, 7, pp.71398-71411.  
+[1] **Gong T**, Tong Q, He H, Sun Y, Zhong J, Zhang H. MTE-NODDI: Multi-TE NODDI for disentangling non-T2-weighted signal fractions from compartment-specific T2 relaxation times. NeuroImage. 2020 May 7:116906.
 
-[4] Tong, Q., He, H., **Gong, T.**, Li, C., Liang, P., Qian, T., Sun, Y., Ding, Q., Li, K. and Zhong, J., 2020. Multicenter dataset of multi-shell diffusion MRI in healthy traveling adults with identical setting. Scientific Data. 7(1), pp.1-7s.
+[2] **Gong T**, Tong Q, Li Z, He H, Zhang H, Zhong J. Deep learning-based method for reducing residual motion effects in diffusion parameter estimation. Magn Reson Med. 2020;00:1–16. https://doi.org/10.1002/mrm.28544
 
-[5] Tong, Q., He, H., **Gong, T.**, Li, C., Liang, P., Qian, T., Sun, Y., Ding, Q., Li, K. and Zhong, J., 2019. Reproducibility of multi-shell diffusion tractography on traveling subjects: A multicenter study prospective. Magnetic resonance imaging, 59, pp.1-9.
+[3] Tong Q#, **Gong T#**, He H, Wang Z, Yu W, Zhang J, Zhai L, Cui H, Meng X, Tax CW, Zhong J. A deep learning–based method for improving reliability of multicenter diffusion kurtosis imaging with varied acquisition protocols. Magnetic Resonance Imaging. 2020 Nov 1;73:31-44.
 
-[6] Tan, X., Gao, J., Zhou, Z., Wei, R., **Gong, T.**, Wu, Y., Liu, K., He, F., Wang, J., Li, J. and Zhang, X., 2018. Spontaneous recovery from unresponsive wakefulness syndrome to a minimally conscious state: early structural changes revealed by 7-T magnetic resonance imaging. Frontiers in neurology, 8, p.741.
+[4] Lin Z#, **Gong T#**, Wang K, Li Z, He H, Tong Q, Yu F, Zhong J. Fast learning of fiber orientation distribution function for MR tractography using convolutional neural network. Medical physics. 2019 Jul;46(7):3101-16.     ***(editor’s choice)***
+
+[5] Li Z#, **Gong T#**, Lin Z, He H, Tong Q, Li C, Sun Y, Yu F, Zhong J. Fast and robust diffusion kurtosis parametric mapping using a three-dimensional convolutional neural network. IEEE Access. 2019 May 27;7:71398-411.
+
+[6] Tong Q, He H, **Gong T**, Li C, Liang P, Qian T, Sun Y, Ding Q, Li K, Zhong J. Multicenter dataset of multi-shell diffusion MRI in healthy traveling adults with identical settings. Scientific Data. 2020 May 27;7(1):1-7.
+
+[7] Tong Q, He H, **Gong T**, Li C, Liang P, Qian T, Sun Y, Ding Q, Li K, Zhong J. Reproducibility of multi-shell diffusion tractography on traveling subjects: a multicenter study prospective. Magnetic resonance imaging. 2019 Jun 1;59:1-9.
+
+[8] Tan X, Gao J, Zhou Z, Wei R, **Gong T**, Wu Y, Liu K, He F, Wang J, Li J, Zhang X. Spontaneous recovery from unresponsive wakefulness syndrome to a minimally conscious state: early structural changes revealed by 7-T magnetic resonance imaging. Frontiers in neurology. 2018 Jan 17;8:741.
   
 ### Conference Abstracts (first author)
 
@@ -45,10 +54,3 @@ Sep. 2011 – Jun. 2015;  B.S.;   China University of Geosciences
 [7] Ting Gong, Qiqi Tong, Qiuping Ding, Hongjian He, Jianhui Zhong, Inferior Fronto-occipital Fasciculus Tractography -- a Comparison of Reconstruction Methods, 25th ISMRM Annual Meeting, Honolulu, HI, US, 2017.
 
 [8] Ting Gong, Qiqi Tong, Hongjian He, Jianhui Zhong, and Hui Zhang. TE-dependence of NODDI-derived parameters and its modelling with compartmental T2 relaxation times.  (ISMRM 2020)
-
-
-
-
-
-
-	
