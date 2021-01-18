@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 
-This is a personal website hosted by Ting Gong, PhD candidate working on microstructure imaging with dMRI.
+This is a personal website hosted by Ting Gong, Postdoc researcher working on microstructure imaging.
 
 ## Appointment
 
