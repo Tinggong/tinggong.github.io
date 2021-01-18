@@ -20,7 +20,7 @@ title                    : "My Projects"
 title_separator          : "-"
 subtitle                 : Published # site tagline that appears below site title in masthead
 name                     : "Ting Gong"
-description              : "PhD Candidate working on diffusion MRI"
+description              : "Postdoc researcher working on microstructure imaging"
 url                      : "https://tinggong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Ting Gong"
   avatar           : "/assets/images/avater.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD candidate working on diffusion MRI"
-  location         : "London, UK/ Hangzhou, China"
-  email            : "gongting@zju.edu.cn"
+  bio              : "Postdoc researcher working on microstructure imaging"
+  location         : "London, UK"
+  email            : "ting.gong@ucl.ac.uk"
   twitter          : "tingg93"
   github           : "Tinggong"
   #researchgate     : 

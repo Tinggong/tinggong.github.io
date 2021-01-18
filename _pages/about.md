@@ -7,15 +7,15 @@ This is a personal website hosted by Ting Gong, PhD candidate working on microst
 
 ## Appointment
 
-Sep. 2020 - Present; Research Assisstant; Computer Science, University College London
+Sep. 2020 - Present; Research Fellow; Computer Science, University College London
 
 ## Education
 
-Sep. 2015 – Present (2020);  Ph.D. student;   Zhejiang University
+2015 – 2020;  PhD in Biomedical Engineering, Zhejiang University
 
-Sep. 2019 – (Jun.2020);   Visiting Ph.D. student; University College London
+2019 – 2020;  Visiting PhD student, University College London
 
-Sep. 2011 – Jun. 2015;  B.S.;   China University of Geosciences
+2011 – 2015;  BS, China University of Geosciences
 
 ## Publications
 
