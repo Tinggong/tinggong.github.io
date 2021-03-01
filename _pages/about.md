@@ -6,9 +6,9 @@ permalink: /about/
 
 My name is Ting Gong. I am a postdoctoral researcher at UCL Centre for Medical Image Computing. My research interests include microsturcture imaging methods and applications.
 
-## Appointment
+## Experience
 
-Sep. 2020 - Present; Research Fellow; Computer Science, University College London
+Sep. 2020 - Present; Research Fellow in Medical Image Analysis and Machine Learning, University College London, UK
 
 ## Education
 

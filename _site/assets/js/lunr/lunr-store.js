@@ -16,4 +16,10 @@ var store = [{
         "tags": ["NODDI","T2 relaxation","Brain development","Brain maturation","Aging"],
         "url": "http://localhost:4000/MTE-NODDI/",
         "teaser": "http://localhost:4000/assets/images/MTE-NODDI/Figure4-1.png"
+      },{
+        "title": "Minimising motion effects in dMRI",
+        "excerpt":"Deep learning-based method for reducing residual motion effects in diffusion parameter estimation DOI to the paper: link Conventional motion‐correction techniques for diffusion MRI can introduce motion‐level–dependent bias in derived metrics. To address this challenge, a deep learning‐based technique was developed to minimize such residual motion effects. The technique combines a...","categories": [],
+        "tags": ["dMRI","head motion","diffusion kurtosis imaging","neural network"],
+        "url": "http://localhost:4000/DL-Motion/",
+        "teaser": "http://localhost:4000/assets/images/DL-Motion/Figure1.png"
       }]
