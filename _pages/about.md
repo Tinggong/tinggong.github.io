@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 
-My name is Ting Gong. I am a postdoctoral researcher at UCL Centre for Medical Image Computing. My research interests include microsturcture imaging methods and applications.
+My name is Ting Gong. I am a postdoctoral researcher at UCL Centre for Medical Image Computing. My research interests include the development of microsturcture imaging methods with dMRI and meachine learning, and their application in neuroimaging studies. 
 
 ## Experience
 
