@@ -1,0 +1,20 @@
+I"+
+<h1 id="deep-learning-based-method-for-reducing-residual-motion-effects-in-diffusion-parameter-estimation">Deep learning-based method for reducing residual motion effects in diffusion parameter estimation</h1>
+
+<h2 id="doi-to-the-paper-link">DOI to the paper: <a href="https://doi.org/10.1002/mrm.28544">link</a></h2>
+
+<h2 id="conventional-motioncorrection-techniques-for-diffusion-mri-can-introduce-motionleveldependent-bias-in-derived-metrics-to-address-this-challenge-a-deep-learningbased-technique-was-developed-to-minimize-such-residual-motion-effects-the-technique-combines-a-deep-learning-based-parameter-estimation-algorithm-using-a-hierarchical-convolutional-neural-network-h-cnn-with-motion-assessment-and-corrupted-volume-rejection">Conventional motion‐correction techniques for diffusion MRI can introduce motion‐level–dependent bias in derived metrics. To address this challenge, a deep learning‐based technique was developed to minimize such residual motion effects. The technique combines a deep learning-based parameter estimation algorithm, using a hierarchical convolutional neural network (H-CNN), with motion assessment and corrupted volume rejection.</h2>
+
+<p><img src="http://localhost:4000/assets/images/DL-Motion/Figure2.png" alt="" /></p>
+<figcaption>Demonstration of standard motion correction of EDDY without/with outlier replacement from two subjects.</figcaption>
+
+<p>Retrospective motion correction techniques are not perfect, inevitably retaining some residual
+artifacts, the extent of which depends on the level of motion in a scan. These residual effects of head motion can compromise model fitting, introducing bias to model-derived measures.</p>
+
+<h2 id="the-proposed-h-cnn-based-technique-is-minimally-sensitive-to-motion-effects-regardless-of-the-motion-levels-of-different-subjects">The proposed H-CNN-based technique is minimally sensitive to motion effects regardless of the motion levels of different subjects.</h2>
+
+<p><img src="http://localhost:4000/assets/images/DL-Motion/Figure3.png" alt="" /></p>
+<figcaption>Correlation of RMSEs of all DKI measures from two subjects with different motion level (S2&gt;S1) by different motion minimisation methods.</figcaption>
+
+<p>Under the stringent thresholds, the H-CNN-based outperforms both WLLS and IRLLS, despite the number of its retained DWIs being considerably smaller than that of the full data. Moreover, its RMSEs for these subjects are similar, despite the levels of motion and the numbers of retained DWIs are different between them, demonstrating its robustness to different levels of motion.</p>
+:ET
